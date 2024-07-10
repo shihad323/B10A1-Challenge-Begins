@@ -43,6 +43,7 @@ body{
            justify-content: center;
            align-items: center;
            padding: 21px 24px 21px 24px;
+           text-decoration: none;
 }
 .custom-button:hover{
                     background-color: #00000017;
@@ -260,5 +261,5 @@ body{
                     border: none; 
                     border-top: 2px dashed black;
                     margin: 0; 
-                }
+}
                 
